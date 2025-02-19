@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT 
 pragma solidity ^0.8.23;
 
 import {IExtendedResolver} from "ens-contracts/resolvers/profiles/IExtendedResolver.sol";
